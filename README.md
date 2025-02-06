@@ -14,6 +14,8 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=orange&style=for-the-badge)
 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
 
 <!--
 **CGrimes7/CGrimes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
