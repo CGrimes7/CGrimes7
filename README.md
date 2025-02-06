@@ -17,7 +17,7 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=black&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 
 
 <!--
