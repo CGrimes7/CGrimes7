@@ -8,6 +8,7 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=orange&style=for-the-badge)
 
 
 <!--
