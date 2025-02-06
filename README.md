@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Python](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://www.python.org/)
 <!--
 **CGrimes7/CGrimes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
