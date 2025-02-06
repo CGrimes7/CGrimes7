@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Carlos Grimes. Data Engineer and Bachelor of Computer Science from the Universidade Estadual do Norte do Paraná (UENP).
+
+I'm a data engineer who loves turning data into actionable insights. With 4 years of experience building and optimizing data pipelines for the real estate industry, I've honed my skills in crafting innovative data solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue-brightgreen.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgrimes/)
 [![Python](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://www.python.org/)
 <!--
 **CGrimes7/CGrimes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
