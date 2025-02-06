@@ -5,9 +5,10 @@ I'm Carlos Grimes. Data Engineer and Bachelor of Computer Science from the Unive
 I'm a data engineer who loves turning data into actionable insights. With 4 years of experience building and optimizing data pipelines for the real estate industry, I've honed my skills in crafting innovative data solutions.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=inspire&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/carlosgrimes/)
+![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
+
 
 <!--
 **CGrimes7/CGrimes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
