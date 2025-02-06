@@ -9,9 +9,9 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 ![Gmail](https://img.shields.io/badge/-carlos.grimes17@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=orange&style=for-the-badge)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
