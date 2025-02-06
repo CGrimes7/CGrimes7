@@ -18,6 +18,7 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-D24939?logo=amazonec2&logoColor=white&style=for-the-badge)
 
 
 <!--
