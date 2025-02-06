@@ -5,7 +5,7 @@ I'm Carlos Grimes. Data Engineer and Bachelor of Computer Science from the Unive
 I'm a data engineer who loves turning data into actionable insights. With 4 years of experience building and optimizing data pipelines for the real estate industry, I've honed my skills in crafting innovative data solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgrimes/)
-
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-00E5FF?logo=inspire&logoColor=white&style=for-the-badge)(https://www.linkedin.com/in/carlosgrimes/)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
