@@ -7,7 +7,7 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightblue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgrimes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgrimes/)
 <!--
 **CGrimes7/CGrimes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
