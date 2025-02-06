@@ -16,7 +16,7 @@ I'm a data engineer who loves turning data into actionable insights. With 4 year
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 <!--
 **CGrimes7/CGrimes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
